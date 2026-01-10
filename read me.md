@@ -13,8 +13,7 @@ TOOLS:
        Thonny IDE,Unity application,VS code/Visual Studio.
 
 How Neurodiverse Persons Can Use This System:
-
-      Neurodiverse persons, such as individuals with autism, ADHD, or sensory processing differences, can use this system as an interactive and visual feedback tool
+  Neurodiverse persons, such as individuals with autism, ADHD, or sensory processing differences, can use this system as an interactive and visual feedback tool. 
 When they flex their fingers, the cubes in Unity expand or shrink, providing immediate visual response to their actions.
 This helps them understand cause-and-effect relationships in a simple and engaging way.
 The project can be used as a calming sensory activity, improving focus and motor coordination.
