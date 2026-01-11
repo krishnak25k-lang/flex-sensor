@@ -1,6 +1,5 @@
 ABOUT MY PROJECT:
-
-      This project uses flex sensors to interact with 3D cubes in Unity.
+     This project uses flex sensors to interact with 3D cubes in Unity.
 A Raspberry Pi Pico reads finger bend values and sends them to Unity in real time.
 Each cube expands when its corresponding flex sensor is bent.
 The system provides simple visual feedback for interactive and assistive applications.
@@ -8,15 +7,12 @@ The system provides simple visual feedback for interactive and assistive applica
 
 TOOLS:
  Hardware:
- 
-      flex ssensor,Raspberry pi pico device,10K resistor,connection wires.
+    flex ssensor,Raspberry pi pico device,10K resistor,connection wires.
  Software:
- 
-       Thonny IDE,Unity application,VS code/Visual Studio.
+     Thonny IDE,Unity application,VS code/Visual Studio.
 
 Methodologies:
-      
-     The project uses sensor-based data acquisition to read finger bend values from flex sensors.
+      The project uses sensor-based data acquisition to read finger bend values from flex sensors.
 Analog-to-digital conversion is performed using the Raspberry Pi Pico’s ADC pins.
 Serial communication methodology is used to transfer real-time data to Unity.
 Data normalization and filtering are applied for stable input values.
