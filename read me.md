@@ -3,16 +3,17 @@ ABOUT MY PROJECT:
 A Raspberry Pi Pico reads finger bend values and sends them to Unity in real time.
 Each cube expands when its corresponding flex sensor is bent.
 The system provides simple visual feedback for interactive and assistive applications.
-Functionalities Used
-Real-time detection of finger bending using flex sensors
 
-Conversion of analog sensor values into normalized digital data
+Functionalities Used:
+*Real-time detection of finger bending using flex sensors
 
-Serial data transmission from Raspberry Pi Pico to Unity
+*Conversion of analog sensor values into normalized digital data
 
-Dynamic scaling of 3D cubes based on sensor input
+*Serial data transmission from Raspberry Pi Pico to Unity
 
-Visual feedback for user interaction and movement tracking
+*Dynamic scaling of 3D cubes based on sensor input
+
+*Visual feedback for user interaction and movement tracking
 
 
 TOOLS:
